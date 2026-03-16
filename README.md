@@ -46,17 +46,17 @@ student_management_system/
 ## ⚙️ How to Run the Project
 
 1. Clone the repository
-
-git clone https://github.com/yourusername/student-management-system-python.git
-
+```
+git clone https://github.com/Mohnish4246/student-management-system-python.git
+```
 2. Navigate to the project folder
-
+```
 cd student-management-system-python
-
+```
 3. Run the program
-
+```python
 python main.py
-
+```
 ---
 
 ## 📊 Example Menu
